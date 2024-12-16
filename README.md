@@ -74,8 +74,8 @@ Codemy stands for Code Academy that online course platform is designed to provid
 - PHP >= 8
 - Laravel 9 or higher
 - Composer
-- MySQL or PostgreSQL (for database)
-- Node.js and NPM (for front-end assets)
+- MySQL (for database)
+- NPM (for front-end assets)
 
 ### Setup
 1. Clone the repository:
